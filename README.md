@@ -2,11 +2,16 @@
 - Rodrigo Viladegut 51113
 - Luciano Paniagua 52334
 
+<img src="Assets/UPB_UNITY/UPB_Logo.png" align="left" width="128" height="86">
+
 # Campus en realidad aumentada de la UPB - CRAUPB
+
 ## Videojuego desarrollado en el motor gráfico de Unity para la materia de Práctica Interna.
 
-<img align="center" src="assets/art/background/BackgroundMenu.png">
-<img align="center" src="assets/art/background/backgroundhell.png">
+<img align="center" src="Assets/UPB_UNITY/subir1.jpg">
+<img align="center" src="Assets/UPB_UNITY/subir3.jpg">
+<img align="center" src="Assets/UPB_UNITY/subir2.jpg">
+<img align="center" src="Assets/UPB_UNITY/subir4.jpg">
 
 -----------------
 ## De que trata el CRAUPB?
